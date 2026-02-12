@@ -21,14 +21,6 @@ Small, reproducible pipeline that ingests football data from SkillCorner’s API
 - [requierements.txt](requierements.txt) — Python dependencies
 - [Makefile](Makefile)
 
-## Setup
-
-1. Create a virtual environment and install dependencies:
-```sh
-python -m venv .venv
-source .venv/bin/activate
-pip install -r [requierements.txt]
-
 ## File overview
 
 - casestudy/pipeline/ingestion/
@@ -40,3 +32,11 @@ pip install -r [requierements.txt]
 
 - casestudy/pipeline/aggregation
     - aggregation.py - Create SkillCorner DynamicEventsAggretor instance to aggregate collected data
+
+## Setup
+
+1. Create a virtual environment and install dependencies:
+```sh
+python -m venv .venv
+source .venv/bin/activate
+pip install -r [requierements.txt]
