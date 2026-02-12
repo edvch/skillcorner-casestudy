@@ -1,0 +1,9 @@
+requests
+json
+pandas
+numpy
+skillcorner
+io
+auth
+pyarrow
+streamlit

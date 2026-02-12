@@ -1,0 +1,1814 @@
+{
+    "id": 2015249,
+    "home_team_score": 1,
+    "away_team_score": 2,
+    "date_time": "2025-05-02T09:35:00Z",
+    "stadium": {
+        "id": 1484,
+        "name": "Central Coast Stadium",
+        "city": "Gosford",
+        "capacity": 20119
+    },
+    "home_team": {
+        "id": 870,
+        "name": "Central Coast Mariners Football Club",
+        "short_name": "CC Mariners",
+        "acronym": "CCM"
+    },
+    "home_team_kit": {
+        "id": 1024,
+        "team_id": 870,
+        "season": {
+            "id": 3,
+            "start_year": 2016,
+            "end_year": 2017,
+            "name": "2016/2017"
+        },
+        "name": "Home",
+        "jersey_color": "#f9db0d",
+        "number_color": "#000000"
+    },
+    "away_team": {
+        "id": 1802,
+        "name": "Brisbane Roar FC",
+        "short_name": "Brisbane FC",
+        "acronym": "BRR"
+    },
+    "away_team_kit": {
+        "id": 15639,
+        "team_id": 1802,
+        "season": {
+            "id": 128,
+            "start_year": 2025,
+            "end_year": 2025,
+            "name": "2025"
+        },
+        "name": "away",
+        "jersey_color": "#366ad3",
+        "number_color": "#ffffff"
+    },
+    "home_team_coach": null,
+    "away_team_coach": null,
+    "home_team_playing_time": {
+        "minutes_tip": 30.42,
+        "minutes_otip": 26.91
+    },
+    "away_team_playing_time": {
+        "minutes_tip": 26.91,
+        "minutes_otip": 30.42
+    },
+    "competition_edition": {
+        "id": 870,
+        "competition": {
+            "id": 61,
+            "area": "AUS",
+            "name": "A-League",
+            "gender": "male",
+            "age_group": "adult"
+        },
+        "season": {
+            "id": 95,
+            "start_year": 2024,
+            "end_year": 2025,
+            "name": "2024/2025"
+        },
+        "name": "AUS - A-League - 2024/2025"
+    },
+    "match_periods": [
+        {
+            "period": 1,
+            "name": "period_1",
+            "start_frame": 1000,
+            "end_frame": 29710,
+            "duration_frames": 28710,
+            "duration_minutes": 47.85
+        },
+        {
+            "period": 2,
+            "name": "period_2",
+            "start_frame": 38490,
+            "end_frame": 69130,
+            "duration_frames": 30640,
+            "duration_minutes": 51.07
+        }
+    ],
+    "competition_round": {
+        "id": 4723,
+        "name": "",
+        "round_number": 29,
+        "potential_overtime": false
+    },
+    "referees": [],
+    "players": [
+        {
+            "player_role": {
+                "id": 12,
+                "position_group": "Wide Attacker",
+                "name": "Left Winger",
+                "acronym": "LW"
+            },
+            "start_time": "00:45:00",
+            "end_time": "01:31:27",
+            "number": 18,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 8.92,
+                    "minutes_otip": 17.39,
+                    "start_frame": 38490,
+                    "end_frame": 66359,
+                    "minutes_played": 46.45,
+                    "minutes_played_regular_time": 46.45
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 8.92,
+                        "minutes_otip": 17.39,
+                        "start_frame": 38490,
+                        "end_frame": 66359,
+                        "minutes_played": 46.45
+                    }
+                ]
+            },
+            "team_player_id": 1508005,
+            "team_id": 1802,
+            "id": 965698,
+            "first_name": "Jacob ",
+            "last_name": "Brazete",
+            "short_name": "J. Brazete",
+            "birthday": "2006-01-20",
+            "trackable_object": 967261,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 13,
+                "position_group": "Wide Attacker",
+                "name": "Right Winger",
+                "acronym": "RW"
+            },
+            "start_time": "00:00:00",
+            "end_time": "01:22:21",
+            "number": 13,
+            "yellow_card": 1,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 24.89,
+                    "minutes_otip": 23.94,
+                    "start_frame": 1000,
+                    "end_frame": 60899,
+                    "minutes_played": 85.2,
+                    "minutes_played_regular_time": 85.2
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 7.54,
+                        "minutes_otip": 13.32,
+                        "start_frame": 38490,
+                        "end_frame": 60899,
+                        "minutes_played": 37.35
+                    }
+                ]
+            },
+            "team_player_id": 828206,
+            "team_id": 1802,
+            "id": 560901,
+            "first_name": "Henry",
+            "last_name": "Hore",
+            "short_name": "H. Hore",
+            "birthday": "1999-08-17",
+            "trackable_object": 562458,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 21,
+                "position_group": "Midfield",
+                "name": "Left Defensive Midfield",
+                "acronym": "LDM"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 26,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 26.91,
+                    "minutes_otip": 30.42,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 9.56,
+                        "minutes_otip": 19.8,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 73001,
+            "team_id": 1802,
+            "id": 51002,
+            "first_name": "Jay",
+            "last_name": "O'Shea",
+            "short_name": "J. O'Shea",
+            "birthday": "1988-08-10",
+            "trackable_object": 52128,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 19,
+                "position_group": "Full Back",
+                "name": "Left Back",
+                "acronym": "LB"
+            },
+            "start_time": "00:00:00",
+            "end_time": "01:22:21",
+            "number": 21,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 24.89,
+                    "minutes_otip": 23.94,
+                    "start_frame": 1000,
+                    "end_frame": 60899,
+                    "minutes_played": 85.2,
+                    "minutes_played_regular_time": 85.2
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 7.54,
+                        "minutes_otip": 13.32,
+                        "start_frame": 38490,
+                        "end_frame": 60899,
+                        "minutes_played": 37.35
+                    }
+                ]
+            },
+            "team_player_id": 1210560,
+            "team_id": 1802,
+            "id": 560983,
+            "first_name": "Antonee Alan",
+            "last_name": "Burke-Gilroy",
+            "short_name": "A. Burke-Gilroy",
+            "birthday": "1997-10-03",
+            "trackable_object": 562540,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 15,
+                "position_group": "Center Forward",
+                "name": "Center Forward",
+                "acronym": "CF"
+            },
+            "start_time": "01:31:27",
+            "end_time": null,
+            "number": 43,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 0.64,
+                    "minutes_otip": 2.41,
+                    "start_frame": 66360,
+                    "end_frame": 69129,
+                    "minutes_played": 4.62,
+                    "minutes_played_regular_time": 4.62
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 0.64,
+                        "minutes_otip": 2.41,
+                        "start_frame": 66360,
+                        "end_frame": 69129,
+                        "minutes_played": 4.62
+                    }
+                ]
+            },
+            "team_player_id": 1508001,
+            "team_id": 1802,
+            "id": 797298,
+            "first_name": "Adam",
+            "last_name": "Zimarino",
+            "short_name": "A. Zimarino",
+            "birthday": "2001-08-28",
+            "trackable_object": 798861,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 12,
+                "position_group": "Wide Attacker",
+                "name": "Left Winger",
+                "acronym": "LW"
+            },
+            "start_time": "00:00:00",
+            "end_time": "01:09:56",
+            "number": 37,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 18.18,
+                    "minutes_otip": 23.33,
+                    "start_frame": 1000,
+                    "end_frame": 53449,
+                    "minutes_played": 72.78,
+                    "minutes_played_regular_time": 72.78
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 7.55,
+                        "minutes_otip": 5.98,
+                        "start_frame": 38490,
+                        "end_frame": 53449,
+                        "minutes_played": 24.93
+                    }
+                ]
+            },
+            "team_player_id": 1228527,
+            "team_id": 870,
+            "id": 808609,
+            "first_name": "Bailey",
+            "last_name": "Brandtman",
+            "short_name": "B. Brandtman",
+            "birthday": "2005-06-28",
+            "trackable_object": 810172,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 10,
+                "position_group": "Midfield",
+                "name": "Right Midfield",
+                "acronym": "RM"
+            },
+            "start_time": "01:22:21",
+            "end_time": null,
+            "number": 8,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 2.02,
+                    "minutes_otip": 6.48,
+                    "start_frame": 60900,
+                    "end_frame": 69129,
+                    "minutes_played": 13.72,
+                    "minutes_played_regular_time": 13.72
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 2.02,
+                        "minutes_otip": 6.48,
+                        "start_frame": 60900,
+                        "end_frame": 69129,
+                        "minutes_played": 13.72
+                    }
+                ]
+            },
+            "team_player_id": 1507999,
+            "team_id": 1802,
+            "id": 287934,
+            "first_name": "Walid",
+            "last_name": "Shour",
+            "short_name": "Walid Shour",
+            "birthday": "1996-06-10",
+            "trackable_object": 289491,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 13,
+                "position_group": "Wide Attacker",
+                "name": "Right Winger",
+                "acronym": "RW"
+            },
+            "start_time": "01:09:56",
+            "end_time": null,
+            "number": 11,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 12.24,
+                    "minutes_otip": 3.58,
+                    "start_frame": 53450,
+                    "end_frame": 69129,
+                    "minutes_played": 26.13,
+                    "minutes_played_regular_time": 26.13
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 12.24,
+                        "minutes_otip": 3.58,
+                        "start_frame": 53450,
+                        "end_frame": 69129,
+                        "minutes_played": 26.13
+                    }
+                ]
+            },
+            "team_player_id": 1448851,
+            "team_id": 870,
+            "id": 170488,
+            "first_name": "Vitor",
+            "last_name": "Correia da Silva",
+            "short_name": "Vitor Feijão",
+            "birthday": "1996-08-01",
+            "trackable_object": 172043,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 15,
+                "position_group": "Center Forward",
+                "name": "Center Forward",
+                "acronym": "CF"
+            },
+            "start_time": "01:07:47",
+            "end_time": null,
+            "number": 27,
+            "yellow_card": 1,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 4.34,
+                    "minutes_otip": 12.71,
+                    "start_frame": 52160,
+                    "end_frame": 69129,
+                    "minutes_played": 28.28,
+                    "minutes_played_regular_time": 28.28
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 4.34,
+                        "minutes_otip": 12.71,
+                        "start_frame": 52160,
+                        "end_frame": 69129,
+                        "minutes_played": 28.28
+                    }
+                ]
+            },
+            "team_player_id": 1507993,
+            "team_id": 1802,
+            "id": 50966,
+            "first_name": "Ben",
+            "last_name": "Halloran",
+            "short_name": "B. Halloran",
+            "birthday": "1992-06-14",
+            "trackable_object": 52092,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 3,
+                "position_group": "Central Defender",
+                "name": "Left Center Back",
+                "acronym": "LCB"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 15,
+            "yellow_card": 1,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 26.91,
+                    "minutes_otip": 30.42,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 9.56,
+                        "minutes_otip": 19.8,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1508000,
+            "team_id": 1802,
+            "id": 69111,
+            "first_name": "Hosine",
+            "last_name": "Bility",
+            "short_name": "H. Bility",
+            "birthday": "2001-05-10",
+            "trackable_object": 70237,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 19,
+                "position_group": "Full Back",
+                "name": "Left Back",
+                "acronym": "LB"
+            },
+            "start_time": "01:22:21",
+            "end_time": null,
+            "number": 35,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 2.02,
+                    "minutes_otip": 6.48,
+                    "start_frame": 60900,
+                    "end_frame": 69129,
+                    "minutes_played": 13.72,
+                    "minutes_played_regular_time": 13.72
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 2.02,
+                        "minutes_otip": 6.48,
+                        "start_frame": 60900,
+                        "end_frame": 69129,
+                        "minutes_played": 13.72
+                    }
+                ]
+            },
+            "team_player_id": 828198,
+            "team_id": 1802,
+            "id": 560898,
+            "first_name": "Louis",
+            "last_name": "Zabala",
+            "short_name": "L. Zabala",
+            "birthday": "2001-01-25",
+            "trackable_object": 562455,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 15,
+                "position_group": "Center Forward",
+                "name": "Center Forward",
+                "acronym": "CF"
+            },
+            "start_time": "01:09:56",
+            "end_time": null,
+            "number": 23,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 12.24,
+                    "minutes_otip": 3.58,
+                    "start_frame": 53450,
+                    "end_frame": 69129,
+                    "minutes_played": 26.13,
+                    "minutes_played_regular_time": 26.13
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 12.24,
+                        "minutes_otip": 3.58,
+                        "start_frame": 53450,
+                        "end_frame": 69129,
+                        "minutes_played": 26.13
+                    }
+                ]
+            },
+            "team_player_id": 1204888,
+            "team_id": 870,
+            "id": 795514,
+            "first_name": "Miguel",
+            "last_name": "Di Pizio",
+            "short_name": "M. Di Pizio",
+            "birthday": "2006-01-04",
+            "trackable_object": 797077,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 3,
+                "position_group": "Central Defender",
+                "name": "Left Center Back",
+                "acronym": "LCB"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 33,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 30.42,
+                    "minutes_otip": 26.91,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1204883,
+            "team_id": 870,
+            "id": 795511,
+            "first_name": "Nathan",
+            "last_name": "Paull",
+            "short_name": "N. Paull",
+            "birthday": "2003-08-21",
+            "trackable_object": 797074,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 15,
+                "position_group": "Center Forward",
+                "name": "Center Forward",
+                "acronym": "CF"
+            },
+            "start_time": "00:00:00",
+            "end_time": "01:09:56",
+            "number": 35,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 1,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 18.18,
+                    "minutes_otip": 23.33,
+                    "start_frame": 1000,
+                    "end_frame": 53449,
+                    "minutes_played": 72.78,
+                    "minutes_played_regular_time": 72.78
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 7.55,
+                        "minutes_otip": 5.98,
+                        "start_frame": 38490,
+                        "end_frame": 53449,
+                        "minutes_played": 24.93
+                    }
+                ]
+            },
+            "team_player_id": 1448860,
+            "team_id": 870,
+            "id": 923865,
+            "first_name": "Arthur",
+            "last_name": "De Lima",
+            "short_name": "A. De Lima",
+            "birthday": null,
+            "trackable_object": 925428,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 20,
+                "position_group": "Full Back",
+                "name": "Right Back",
+                "acronym": "RB"
+            },
+            "start_time": "00:00:00",
+            "end_time": "00:59:43",
+            "number": 24,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 15.46,
+                    "minutes_otip": 19.89,
+                    "start_frame": 1000,
+                    "end_frame": 47319,
+                    "minutes_played": 62.56,
+                    "minutes_played_regular_time": 62.56
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 4.83,
+                        "minutes_otip": 2.54,
+                        "start_frame": 38490,
+                        "end_frame": 47319,
+                        "minutes_played": 14.72
+                    }
+                ]
+            },
+            "team_player_id": 1448856,
+            "team_id": 870,
+            "id": 330380,
+            "first_name": "Diesel",
+            "last_name": "Herrington",
+            "short_name": "D. Herrington",
+            "birthday": "2004-08-04",
+            "trackable_object": 331937,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 15,
+                "position_group": "Center Forward",
+                "name": "Center Forward",
+                "acronym": "CF"
+            },
+            "start_time": "00:00:00",
+            "end_time": "00:45:00",
+            "number": 9,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 10.62,
+                    "minutes_otip": 17.35,
+                    "start_frame": 1000,
+                    "end_frame": 29709,
+                    "minutes_played": 47.85,
+                    "minutes_played_regular_time": 47.85
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29709,
+                        "minutes_played": 47.85
+                    }
+                ]
+            },
+            "team_player_id": 74034,
+            "team_id": 870,
+            "id": 51668,
+            "first_name": "Alou",
+            "last_name": "Kuol",
+            "short_name": "A. Kuol",
+            "birthday": "2001-07-05",
+            "trackable_object": 52794,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 9,
+                "position_group": "Midfield",
+                "name": "Left Midfield",
+                "acronym": "LM"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 8,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 30.42,
+                    "minutes_otip": 26.91,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1448852,
+            "team_id": 870,
+            "id": 29856,
+            "first_name": "Alfie",
+            "last_name": "McCalmont",
+            "short_name": "A. McCalmont",
+            "birthday": "2000-03-25",
+            "trackable_object": 30949,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 11,
+                "position_group": "Midfield",
+                "name": "Attacking Midfield",
+                "acronym": "AM"
+            },
+            "start_time": "00:00:00",
+            "end_time": "01:07:47",
+            "number": 10,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 22.57,
+                    "minutes_otip": 17.71,
+                    "start_frame": 1000,
+                    "end_frame": 52159,
+                    "minutes_played": 70.63,
+                    "minutes_played_regular_time": 70.63
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 5.22,
+                        "minutes_otip": 7.08,
+                        "start_frame": 38490,
+                        "end_frame": 52159,
+                        "minutes_played": 22.78
+                    }
+                ]
+            },
+            "team_player_id": 1204949,
+            "team_id": 1802,
+            "id": 560882,
+            "first_name": "Florin",
+            "last_name": "Bérenguer",
+            "short_name": "F. Bérenguer",
+            "birthday": "1989-04-01",
+            "trackable_object": 562439,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 4,
+                "position_group": "Central Defender",
+                "name": "Right Center Back",
+                "acronym": "RCB"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 3,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 30.42,
+                    "minutes_otip": 26.91,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1204880,
+            "team_id": 870,
+            "id": 795510,
+            "first_name": "Brian",
+            "last_name": "Kaltak",
+            "short_name": "B. Kaltak",
+            "birthday": "1993-09-30",
+            "trackable_object": 797073,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 22,
+                "position_group": "Midfield",
+                "name": "Right Defensive Midfield",
+                "acronym": "RDM"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 24,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 2,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 26.91,
+                    "minutes_otip": 30.42,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 9.56,
+                        "minutes_otip": 19.8,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1507995,
+            "team_id": 1802,
+            "id": 965695,
+            "first_name": "Samuel",
+            "last_name": "Klein",
+            "short_name": "S. Klein",
+            "birthday": "2004-03-15",
+            "trackable_object": 967258,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 15,
+                "position_group": "Center Forward",
+                "name": "Center Forward",
+                "acronym": "CF"
+            },
+            "start_time": "00:00:00",
+            "end_time": "00:45:00",
+            "number": 11,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 17.35,
+                    "minutes_otip": 10.62,
+                    "start_frame": 1000,
+                    "end_frame": 29709,
+                    "minutes_played": 47.85,
+                    "minutes_played_regular_time": 47.85
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29709,
+                        "minutes_played": 47.85
+                    }
+                ]
+            },
+            "team_player_id": 1561171,
+            "team_id": 1802,
+            "id": 37087,
+            "first_name": "Asumah",
+            "last_name": "Abubakar-Ankra",
+            "short_name": "Asumah Abubakar",
+            "birthday": "1997-05-10",
+            "trackable_object": 38208,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 4,
+                "position_group": "Central Defender",
+                "name": "Right Center Back",
+                "acronym": "RCB"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 12,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 26.91,
+                    "minutes_otip": 30.42,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 9.56,
+                        "minutes_otip": 19.8,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1508004,
+            "team_id": 1802,
+            "id": 965697,
+            "first_name": "Lucas",
+            "last_name": "Herrington",
+            "short_name": "L. Herrington",
+            "birthday": "2007-05-09",
+            "trackable_object": 967260,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 13,
+                "position_group": "Wide Attacker",
+                "name": "Right Winger",
+                "acronym": "RW"
+            },
+            "start_time": "00:59:43",
+            "end_time": null,
+            "number": 7,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 14.96,
+                    "minutes_otip": 7.03,
+                    "start_frame": 47320,
+                    "end_frame": 69129,
+                    "minutes_played": 36.35,
+                    "minutes_played_regular_time": 36.35
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 14.96,
+                        "minutes_otip": 7.03,
+                        "start_frame": 47320,
+                        "end_frame": 69129,
+                        "minutes_played": 36.35
+                    }
+                ]
+            },
+            "team_player_id": 1204878,
+            "team_id": 870,
+            "id": 795509,
+            "first_name": "Christian",
+            "last_name": "Theoharous",
+            "short_name": "C. Theoharous",
+            "birthday": "1999-12-06",
+            "trackable_object": 797072,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 15,
+                "position_group": "Center Forward",
+                "name": "Center Forward",
+                "acronym": "CF"
+            },
+            "start_time": "00:45:00",
+            "end_time": null,
+            "number": 29,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 19.8,
+                    "minutes_otip": 9.56,
+                    "start_frame": 38490,
+                    "end_frame": 69129,
+                    "minutes_played": 51.06,
+                    "minutes_played_regular_time": 51.06
+                },
+                "by_period": [
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1210559,
+            "team_id": 870,
+            "id": 797424,
+            "first_name": "Nicholas",
+            "last_name": "Duarte",
+            "short_name": "N. Duarte",
+            "birthday": "2003-12-16",
+            "trackable_object": 798987,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 17,
+                "position_group": "Other",
+                "name": "Substitute",
+                "acronym": "SUB"
+            },
+            "start_time": null,
+            "end_time": null,
+            "number": 1,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": null,
+                "by_period": []
+            },
+            "team_player_id": 72997,
+            "team_id": 1802,
+            "id": 50999,
+            "first_name": "Macklin",
+            "last_name": "Freke",
+            "short_name": "M. Freke",
+            "birthday": "1999-01-06",
+            "trackable_object": 52125,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 17,
+                "position_group": "Other",
+                "name": "Substitute",
+                "acronym": "SUB"
+            },
+            "start_time": null,
+            "end_time": null,
+            "number": 6,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": null,
+                "by_period": []
+            },
+            "team_player_id": 1557115,
+            "team_id": 1802,
+            "id": 998558,
+            "first_name": "Austin",
+            "last_name": "Ludwik",
+            "short_name": "A. Ludwik",
+            "birthday": "1997-02-11",
+            "trackable_object": 1000121,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 0,
+                "position_group": "Other",
+                "name": "Goalkeeper",
+                "acronym": "GK"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 29,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 26.91,
+                    "minutes_otip": 30.42,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 9.56,
+                        "minutes_otip": 19.8,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1204952,
+            "team_id": 1802,
+            "id": 50950,
+            "first_name": "Matt",
+            "last_name": "Acton",
+            "short_name": "M. Acton",
+            "birthday": "1992-06-03",
+            "trackable_object": 52076,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 12,
+                "position_group": "Wide Attacker",
+                "name": "Left Winger",
+                "acronym": "LW"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 23,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 26.91,
+                    "minutes_otip": 30.42,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 9.56,
+                        "minutes_otip": 19.8,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1229607,
+            "team_id": 1802,
+            "id": 560986,
+            "first_name": "Keegan",
+            "last_name": "Jelacic",
+            "short_name": "K. Jelacic",
+            "birthday": "2002-07-31",
+            "trackable_object": 562543,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 20,
+                "position_group": "Full Back",
+                "name": "Right Back",
+                "acronym": "RB"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 19,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 26.91,
+                    "minutes_otip": 30.42,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 17.35,
+                        "minutes_otip": 10.62,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 9.56,
+                        "minutes_otip": 19.8,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 74101,
+            "team_id": 1802,
+            "id": 51722,
+            "first_name": "Jack",
+            "last_name": "Hingert",
+            "short_name": "J. Hingert",
+            "birthday": "1990-09-26",
+            "trackable_object": 52848,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 17,
+                "position_group": "Other",
+                "name": "Substitute",
+                "acronym": "SUB"
+            },
+            "start_time": null,
+            "end_time": null,
+            "number": 43,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": null,
+                "by_period": []
+            },
+            "team_player_id": 1554897,
+            "team_id": 870,
+            "id": 997901,
+            "first_name": "Michael",
+            "last_name": "Paragalli",
+            "short_name": "M. Paragalli",
+            "birthday": "2006-02-20",
+            "trackable_object": 999464,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 17,
+                "position_group": "Other",
+                "name": "Substitute",
+                "acronym": "SUB"
+            },
+            "start_time": null,
+            "end_time": null,
+            "number": 16,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": null,
+                "by_period": []
+            },
+            "team_player_id": 1204876,
+            "team_id": 870,
+            "id": 795508,
+            "first_name": "Harrison",
+            "last_name": "Steele",
+            "short_name": "H. Steele",
+            "birthday": "2002-10-12",
+            "trackable_object": 797071,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 17,
+                "position_group": "Other",
+                "name": "Substitute",
+                "acronym": "SUB"
+            },
+            "start_time": null,
+            "end_time": null,
+            "number": 1,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": null,
+                "by_period": []
+            },
+            "team_player_id": 1448853,
+            "team_id": 870,
+            "id": 152947,
+            "first_name": "Adam",
+            "last_name": "Pavlesic",
+            "short_name": "A. Pavlesic",
+            "birthday": "2002-07-30",
+            "trackable_object": 154502,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 13,
+                "position_group": "Wide Attacker",
+                "name": "Right Winger",
+                "acronym": "RW"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 10,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 30.42,
+                    "minutes_otip": 26.91,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1204879,
+            "team_id": 870,
+            "id": 34423,
+            "first_name": "Antonio Mikael",
+            "last_name": "Rodrigues Brito",
+            "short_name": "Mikael Doka",
+            "birthday": "2000-01-24",
+            "trackable_object": 35534,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 19,
+                "position_group": "Full Back",
+                "name": "Left Back",
+                "acronym": "LB"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 12,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 30.42,
+                    "minutes_otip": 26.91,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1448855,
+            "team_id": 870,
+            "id": 51683,
+            "first_name": "Lucas",
+            "last_name": "Mauragis",
+            "short_name": "L. Mauragis",
+            "birthday": "2001-09-04",
+            "trackable_object": 52809,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 10,
+                "position_group": "Midfield",
+                "name": "Right Midfield",
+                "acronym": "RM"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 36,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 30.42,
+                    "minutes_otip": 26.91,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1448859,
+            "team_id": 870,
+            "id": 923864,
+            "first_name": "Haine Anthony",
+            "last_name": "Eames",
+            "short_name": "H. Eames",
+            "birthday": "2008-02-27",
+            "trackable_object": 925427,
+            "gender": "male"
+        },
+        {
+            "player_role": {
+                "id": 0,
+                "position_group": "Other",
+                "name": "Goalkeeper",
+                "acronym": "GK"
+            },
+            "start_time": "00:00:00",
+            "end_time": null,
+            "number": 40,
+            "yellow_card": 0,
+            "red_card": 0,
+            "injured": false,
+            "goal": 0,
+            "own_goal": 0,
+            "playing_time": {
+                "total": {
+                    "minutes_tip": 30.42,
+                    "minutes_otip": 26.91,
+                    "start_frame": 1000,
+                    "end_frame": 69129,
+                    "minutes_played": 98.92,
+                    "minutes_played_regular_time": 98.92
+                },
+                "by_period": [
+                    {
+                        "name": "period_1",
+                        "minutes_tip": 10.62,
+                        "minutes_otip": 17.35,
+                        "start_frame": 1000,
+                        "end_frame": 29710,
+                        "minutes_played": 47.85
+                    },
+                    {
+                        "name": "period_2",
+                        "minutes_tip": 19.8,
+                        "minutes_otip": 9.56,
+                        "start_frame": 38490,
+                        "end_frame": 69129,
+                        "minutes_played": 51.06
+                    }
+                ]
+            },
+            "team_player_id": 1448857,
+            "team_id": 870,
+            "id": 923862,
+            "first_name": "Dylan",
+            "last_name": "Peraic-Cullen",
+            "short_name": "D. Peraic-Cullen",
+            "birthday": "2006-07-25",
+            "trackable_object": 925425,
+            "gender": "male"
+        }
+    ],
+    "status": "closed",
+    "home_team_side": [
+        "left_to_right",
+        "right_to_left"
+    ],
+    "ball": {
+        "trackable_object": 55
+    },
+    "pitch_length": 105,
+    "pitch_width": 68
+}
